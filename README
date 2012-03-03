@@ -1,0 +1,2 @@
+A script for plotting certain TCP/IP header fields from pcap files.
+This is useful for determining the number and type of system that are present behind a NAT gateway. 
